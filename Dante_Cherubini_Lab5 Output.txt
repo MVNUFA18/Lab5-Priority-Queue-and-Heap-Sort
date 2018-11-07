@@ -1,0 +1,42 @@
+Enter a pair of doubles, separated by whitespace: 20 20
+Enter a pair of doubles, separated by whitespace: 1.1 0
+Enter a pair of doubles, separated by whitespace: 1.1 -1
+Enter a pair of doubles, separated by whitespace: 10 4
+Enter a pair of doubles, separated by whitespace: 5 9
+Enter a pair of doubles, separated by whitespace: 7 7
+Enter a pair of doubles, separated by whitespace: 10 -10
+Enter a pair of doubles, separated by whitespace: -7 8
+Enter a pair of doubles, separated by whitespace: 100 100
+Enter a pair of doubles, separated by whitespace: -6 5
+Enter a pair of doubles, separated by whitespace: 0 0
+[0]: (0,0)
+[1]: (1.1,0)
+[2]: (-6,5)
+[3]: (1.1,-1)
+[4]: (-7,8)
+[5]: (5,9)
+[6]: (7,7)
+[7]: (10,-10)
+[8]: (20,20)
+[9]: (100,100)
+[10]: (10,4)
+
+The current minimum point is: (1.1,0)
+
+The current minimum point is: (1.1,-1)
+
+The current minimum point is: (-6,5)
+
+The current minimum point is: (7,7)
+
+The current minimum point is: (5,9)
+
+The current minimum point is: (-7,8)
+
+The current minimum point is: (10,4)
+
+The current minimum point is: (10,-10)
+
+The current minimum point is: (20,20)
+
+The current minimum point is: (100,100)
